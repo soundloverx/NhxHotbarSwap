@@ -1,0 +1,9 @@
+{
+  "name": "NhxHotbarSwap",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Private mod: swap your hotbar with the second inventory row using a keyboard shortcut. Not published on Thunderstore.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}
